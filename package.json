@@ -1,9 +1,9 @@
 {
   "name": "invite-bot",
   "version": "1.0.0",
-  "main": "Node.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node Node.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "discord.js": "^14.0.0",
